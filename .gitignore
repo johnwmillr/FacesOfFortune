@@ -1,11 +1,12 @@
 # macOS
 *.DS_Store
 
-# Images
+# Media
 images
 *.jpg
 *.jpeg
 *.png
+*.mov
 
 # Data
 dlib
@@ -13,6 +14,7 @@ data
 *.csv
 *.txt
 *.json
+*.pickle
 
 # Jupyter
 .ipynb_checkpoints
