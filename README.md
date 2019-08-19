@@ -6,7 +6,7 @@ Check out [my blog post, Faces of Fortune](https://www.johnwmillr.com/faces-of-f
 
 My hot take? #25 looks exactly like Mrs. Doubtfire.
 
-![Faces 1-15](assets/Faces_01-15.jpg)
+[![Faces 1-15](assets/Faces_01-15.jpg)](https://www.johnwmillr.com/faces-of-fortune/)
 
 **Source**:
 
